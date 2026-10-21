@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "avro-resolution-witness"
+version = "0.1.0"
+description = "Explain bounded Avro writer-to-reader resolution with field paths, promotions, defaults and union branch evidence."
+requires-python = ">=3.10"
+license = {file = "LICENSE"}
+readme = "README.md"
+dependencies = []
+[project.scripts]
+avro-resolution-witness = "avro_resolution_witness:main"
+[tool.setuptools]
+py-modules = ["avro_resolution_witness"]

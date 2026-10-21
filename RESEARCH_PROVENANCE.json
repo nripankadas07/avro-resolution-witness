@@ -1,0 +1,121 @@
+{
+  "date": "2026-10-21",
+  "query": {
+    "query": "avro schema",
+    "url": "https://github.com/search?q=avro+schema&type=repositories&s=stars&o=desc",
+    "observed": "2026-10-21T06:19:15.182Z"
+  },
+  "search_result_body": "Sort by: Most stars\nSave\ndatamodel-code-generator/datamodel-code-generator\nGenerate Pydantic v2 models, dataclasses, TypedDict, and msgspec.Struct from OpenAPI, JSON Schema, GraphQL, Avro, Protobuf, and raw JSON/\u2026\npython\ngraphql\nyaml\ncsv\ngenerator\nPython\n\u00b7\n4k\n\u00b7\nUpdated 8 minutes ago\nStar\n Sponsor\nconfluentinc/schema-registry\nConfluent Schema Registry for Kafka\njson\nschema\nkafka\nprotobuf\navro\nJava\n\u00b7\n2.5k\n\u00b7\nUpdated 51 minutes ago\nStar\ncapitalone/DataProfiler\nWhat's in your data? Extract schema, statistics and entities from datasets\npython\nnlp\nsecurity\ndata-science\nmachine-learning\nPython\n\u00b7\n1.6k\n\u00b7\nUpdated on Sep 15\nStar\nsksamuel/avro4s\nAvro schema generation and serialization / deserialization for Scala\nserialization\nscala\navro\nscala-macros\navro-schema\nScala\n\u00b7\n730\n\u00b7\nUpdated on May 23\nStar\nlensesio/schema-registry-ui\nWeb tool for Avro Schema Registry |\nkafka\navro\nschema-registry\nJavaScript\n\u00b7\n426\n\u00b7\nUpdated on Feb 13, 2024\nStar\nactgardner/gogen-avro\nGenerate Go code to serialize and deserialize Avro schemas\nGo\n\u00b7\n373\n\u00b7\nUpdated on Feb 18, 2024\nStar\nzszszszsz/.config\n... # CONFIG_PACKAGE_python3-schedule-src is not set # CONFIG_PACKAGE_python3-schema is not set # CONFIG_PACKAGE_python3-schema-src is no\u2026\nShell\n\u00b7\n363\n\u00b7\nUpdated on Oct 6, 2023\nStar\ndavidmc24/gradle-avro-plugin\nPublic archive\nA Gradle plugin to allow easily performing Java code generation for Apache Avro. It supports JSON schema declaration files, JSON protocol\u2026\njava\ngroovy\navro\ngradle-plugin\nJava\n\u00b7\n329\n\u00b7\nUpdated on Dec 28, 2023\nStar\n Sponsor\nriferrei/srclient\nGolang Client for Schema Registry\ngo\nregistry\ncloud\nschema\nkafka\nGo\n\u00b7\n263\n\u00b7\nUpdated on Oct 31, 2025\nStar\nmarcosschroh/dataclasses-avroschema\nGenerate avro schemas from python dataclasses, Pydantic models and Faust Records. Code generation from avro schemas. Serialize/Deserializ\u2026\nserialization\njson\nschema\navro\njson-schema\nPython\n\u00b7\n253\n\u00b7\nUpdated 20 hours ago\nStar\n Sponsor\nPrevious1234567\u2026100Next\nSponsor open source projects you depend on\nContributors are working behind the scenes to make open source better for everyone\u2014give them the help and recognition they deserve.\nExplore sponsorable projects\nHow can we improve search? Give feedback\nProTip!\u00a0Press the / key to activate the search input again and adjust your query.",
+  "highest_star_relevant_found": "apache/avro",
+  "comparables": [
+    {
+      "full_name": "apache/avro",
+      "html_url": "https://github.com/apache/avro",
+      "stargazers_count": 3305,
+      "pushed_at": "2026-10-18T17:39:33Z",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "description": "Apache Avro is a data serialization system.",
+      "observed": "2026-10-21T06:01:39.541Z",
+      "recent_open_items": [
+        {
+          "title": "Bump System.CodeDom from 10.0.10 to 10.0.13",
+          "url": "https://github.com/apache/avro/pull/4059",
+          "is_pr": true,
+          "body_excerpt": "Updated [System.CodeDom](https://github.com/dotnet/dotnet) from 10.0.10 to 10.0.13.\n\n<details>\n<summary>Release notes</summary>\n\n_Sourced from [System.CodeDom's releases](https://github.com/dotnet/dotnet/releases)._\n\nNo release notes found for this version range.\n\nCommits viewable in [compare view](https://github.com/dotnet/dotnet/commits).\n</details>\n\n[![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=System.CodeDom&package-manager=nuget&previous-version=10.0.10&new-version=10.0.13)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)\n\nDependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting `@dependabot rebase`.\n\n[//]: # (dependabot-automerge-start)\n[//]: # (dependabot-automerge-end)\n\n---\n\n<details>\n<summary>Dependabot commands and options</summary>\n<br />"
+        },
+        {
+          "title": "Bump Microsoft.NET.Test.Sdk from 17.13.0 to 18.11.0",
+          "url": "https://github.com/apache/avro/pull/4058",
+          "is_pr": true,
+          "body_excerpt": "Updated [Microsoft.NET.Test.Sdk](https://github.com/microsoft/vstest) from 17.13.0 to 18.11.0.\n\n<details>\n<summary>Release notes</summary>\n\n_Sourced from [Microsoft.NET.Test.Sdk's releases](https://github.com/microsoft/vstest/releases)._\n\n## 18.11.0\n\n<!-- Release notes generated using configuration in .github/release.yml at rel/18.11 -->\n\n## What's Changed\n* Fix TRX logger mangling astral-plane (non-BMP) characters by @\u200bazat-msft in https://github.com/microsoft/vstest/pull/16318\n* Disable the MTP testhost by default by @\u200bnohwnd in https://github.com/microsoft/vstest/pull/16337\n* Fix OS-blind apphost probe in MTP bridge on Unix (regression from #\u200b16201) by @\u200bazat-msft in https://github.com/microsoft/vstest/pull/16336\n* Retarget the MTP client onto Microsoft.Testing.Platform.ServerMode.Client.Sources by @\u200bnohwnd in https://github.com/microsoft/vstest/pull/16300\n* Pass arguments to PowerShell with -File instead of -command by @\u200bnohwnd in https://github.com/microsoft/vstest/pull/16363\n* Re"
+        },
+        {
+          "title": "Bump Microsoft.Build.Framework and Microsoft.Build.Utilities.Core",
+          "url": "https://github.com/apache/avro/pull/4057",
+          "is_pr": true,
+          "body_excerpt": "Updated [Microsoft.Build.Framework](https://github.com/dotnet/msbuild) from 18.8.2 to 18.11.0.\n\n<details>\n<summary>Release notes</summary>\n\n_Sourced from [Microsoft.Build.Framework's releases](https://github.com/dotnet/msbuild/releases)._\n\n## 18.11.0\n\n## What's Changed\n* Add vs18.10 to merge-flow config; retire vs18.7 by @\u200bAlesProkop in https://github.com/dotnet/msbuild/pull/14563\n* Bump main to 18.11.0 after vs18.10 snap by @\u200bAlesProkop in https://github.com/dotnet/msbuild/pull/14564\n* Phase out ChangeWaves 17.10, 17.12, 17.14 and 18.3 by @\u200bJanProvaznik in https://github.com/dotnet/msbuild/pull/14551\n* [main] Source code updates from dotnet/dotnet by @\u200bdotnet-maestro[bot] in https://github.com/dotnet/msbuild/pull/14572\n* Default XML tasks to prohibit DTDs and improve DTD error diagnostics by @\u200bVolPlita in https://github.com/dotnet/msbuild/pull/14285\n* Don't log TaskAssemblyLocationMismatch for task-host-routed tasks by @\u200bJanProvaznik in https://github.com/dotnet/msbuild/pull/14550\n* S"
+        }
+      ]
+    },
+    {
+      "full_name": "confluentinc/schema-registry",
+      "html_url": "https://github.com/confluentinc/schema-registry",
+      "stargazers_count": 2470,
+      "pushed_at": "2026-10-21T05:27:11Z",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "description": "Confluent Schema Registry for Kafka",
+      "observed": "2026-10-21T06:01:40.031Z",
+      "recent_open_items": [
+        {
+          "title": "chore: update repo by service bot",
+          "url": "https://github.com/confluentinc/schema-registry/pull/4713",
+          "is_pr": true,
+          "body_excerpt": "This is a routine update from cc-service-bot based on the service.yml in your repo. This PR\nshould be approved and merged as soon as CI passes. cc-service-bot will merge it automatically, without approvals, in 7 days if status checks pass."
+        },
+        {
+          "title": "DGS-26080: Harden JSON schema tag-path branch sorting",
+          "url": "https://github.com/confluentinc/schema-registry/pull/4712",
+          "is_pr": true,
+          "body_excerpt": "<!--\nIs there any breaking changes?  If so this is a major release, make sure '#major' is in at least one\ncommit message to get CI to bump the major.  This will prevent automatic down stream dependency\nbumping / consuming.  For more information about semantic versioning see: https://semver.org/\n\n\nSuggested PR template: Fill/delete/add sections as needed. Optionally delete any commented block.\n-->\nWhat\n----\n<!--\nBriefly describe **what** you have changed and **why**.\nOptionally include implementation strategy.\n-->\n\nChecklist\n------------------\nPlease answer the questions with Y, N or N/A if not applicable.\n- **[ ]** Contains customer facing changes? Including API/behavior changes <!-- This can help identify if it has introduced any breaking changes -->\n- **[ ]** Is this change gated behind config(s)?\n    - List the config(s) needed to be set to enable this change\n- **[ ]** Did you add sufficient unit test and/or integration test coverage for this PR?\n    - If not, please explain why it "
+        },
+        {
+          "title": "With provenance, flag a version that repeats an earlier schema id",
+          "url": "https://github.com/confluentinc/schema-registry/pull/4705",
+          "is_pr": true,
+          "body_excerpt": "<!--\r\nIs there any breaking changes?  If so this is a major release, make sure '#major' is in at least one\r\ncommit message to get CI to bump the major.  This will prevent automatic down stream dependency\r\nbumping / consuming.  For more information about semantic versioning see: https://semver.org/\r\n\r\n\r\nSuggested PR template: Fill/delete/add sections as needed. Optionally delete any commented block.\r\n-->\r\nWhat\r\n----\r\nStacked on #4703 (base `backward-compat`).                                                                                                                                        \r\n                                                                                                                                                                                    \r\n  Outside LOGICAL, re-registering the content of a soft-deleted version gives the new version the old schema id. If the subject changed in between (v1 C, v2 X, v1 soft-deleted, C again as v3), records written under v1 "
+        }
+      ]
+    },
+    {
+      "full_name": "fastavro/fastavro",
+      "html_url": "https://github.com/fastavro/fastavro",
+      "stargazers_count": 714,
+      "pushed_at": "2026-10-15T13:13:40Z",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "description": "Fast Avro for Python",
+      "observed": "2026-10-21T06:01:39.762Z",
+      "recent_open_items": [
+        {
+          "title": "Allow the \"-type\" union hint under the strict writer options",
+          "url": "https://github.com/fastavro/fastavro/pull/898",
+          "is_pr": true,
+          "body_excerpt": "Fixes #831.\n\nThe `-type` record hint picks which branch of a union to write. Under\n`strict=True` or `strict_allow_default=True` it was rejected instead:\n\n    ValueError: record contains more fields than the schema specifies: -type\n\n`write_record` builds its extras set from the record keys alone, so the hint\nalways landed in it. `_validation_py.py:141` already treats `-type` as\nreserved rather than as data, so the writer was the side that disagreed.\n\nExcluding it from the extras set in both `_write_py.py` and `_write.pyx`.\nThe reporter only hit this on `strict_allow_default`, but plain `strict`\nrejects the hint the same way, so both options are covered.\n\nThe test writes a record with the hint under each option and checks the\nvalue round-trips without it. It also keeps a genuinely unknown field in\nthe record to confirm that still raises, so the exemption is only the hint.\n"
+        },
+        {
+          "title": "[benchmark] Request for call-path / fairness review (GLD.SerializerBenchmark)",
+          "url": "https://github.com/fastavro/fastavro/issues/890",
+          "is_pr": false,
+          "body_excerpt": "Hello,\n\nI'm Leonid Ganeline. We maintain an open multi-language serializer benchmark:\n\nhttps://github.com/leo-gan/GLD.SerializerBenchmark\n\nYour library is included in the suite (language: python, harness name: `fastavro`).\nImplementation we use:\n\nhttps://github.com/leo-gan/GLD.SerializerBenchmark/blob/master/python/src/benchmark/serializers/schema_avro.py\n\nWe would value a short review of whether our measurement is fair and idiomatic:\n\n1. Does our call pattern match how you recommend using the library in performance-sensitive code?\n2. Should we change options, encoder/decoder reuse, types, or buffer handling?\n3. Is there a better API (or a second entry point worth a separate row in the suite)?\n\nConcrete notes or a small PR against that wrapper would help a lot. We are happy to credit you in the docs.\n\nThe repo also includes a short Serialization course (101\u2013401). If something important about your design is easy to misstate, a pointer is welcome\u2014we can update the docs ourselves.\n\nThank "
+        },
+        {
+          "title": "Requesting a private channel to report a security issue (process crash / DoS)",
+          "url": "https://github.com/fastavro/fastavro/issues/889",
+          "is_pr": false,
+          "body_excerpt": "Hi maintainers,\nI've found what I believe is a security-relevant issue in fastavro's schema parsing (a denial-of-service condition \u2014 process crash under certain execution contexts). I'd like to report it responsibly rather than posting exploit details in a public issue.\nThis repo doesn't appear to have a SECURITY.md or GitHub's Private Vulnerability Reporting enabled yet. Would you be willing to either:\nEnable Private Vulnerability Reporting for this repo (Settings \u2192 Security \u2192 \"Enable\" under \"Private vulnerability reporting\"), which lets me submit a private, structured report directly through GitHub, or\nPoint me to a preferred private contact (email, etc.) for security reports?\nHappy to provide a full write-up and a working PoC as soon as there's a private channel to send it through. Thanks for maintaining this project."
+        }
+      ]
+    }
+  ],
+  "primary_sources": [
+    "https://avro.apache.org/docs/1.12.0/specification/"
+  ],
+  "limits": "Keyword searches are scoped, not global rankings. Established relevant alternatives were supplemented directly. Broader/irrelevant keyword leaders are excluded by README scope. No competitor installed/timed or absence/superiority/support-quality claim. Current issue samples may be PRs and are not verified demand for this tool."
+}
