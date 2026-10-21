@@ -1,0 +1,30 @@
+{
+  "writer": {
+    "type": "record",
+    "name": "Event",
+    "fields": [
+      {
+        "name": "id",
+        "type": "int"
+      }
+    ]
+  },
+  "reader": {
+    "type": "record",
+    "name": "Event",
+    "fields": [
+      {
+        "name": "id",
+        "type": "long"
+      },
+      {
+        "name": "note",
+        "type": [
+          "null",
+          "string"
+        ],
+        "default": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "occurrence": "GH-20261021",
+  "state": "VALIDATED",
+  "demand": "Inferred; no verified request for this new tool.",
+  "acceptance": [
+    "The invented example promotes id to long and supplies the new note default.",
+    "64 primitive pairs, missing defaults, ignored fields, union selection/all branches, enums, fixed sizes, nested array/map promotion and unsupported schema rejection.",
+    "Clean installed CLI outside checkout, error case and source preservation."
+  ],
+  "discovery": "Searchable README/topics and small reproducible example; no outreach/adoption claim.",
+  "inventory_compared": 208,
+  "mutual_distinction": "Schema evolution, OOXML formula structure, event-time state, expiry stock allocation and three-version text edits are separate products/users/contracts. Shared packaging is infrastructure.",
+  "originality": "Original AI-assisted code and invented fixtures; no third-party implementation/prose copied.",
+  "repo": "avro-resolution-witness",
+  "user": "Data engineers reviewing an inline Avro writer/reader schema change.",
+  "pain": "A compatible-looking record change can fail on a missing reader default or one writer union branch.",
+  "capability": "Explain bounded Avro writer-to-reader resolution with field paths, promotions, defaults and union branch evidence.",
+  "alternatives": [
+    "apache/avro",
+    "confluentinc/schema-registry",
+    "fastavro/fastavro"
+  ],
+  "highest": "apache/avro",
+  "query": "avro schema",
+  "topics": [
+    "avro",
+    "schema-evolution",
+    "debugging",
+    "python"
+  ],
+  "expected": "The invented example promotes id to long and supplies the new note default.",
+  "limits": "Inline unqualified schemas only. Primitives, records, enums, fixed, arrays, maps and nonnested unions; <=300 schema nodes, depth24, <=100 fields/symbols and16 union branches. Named definitions must be unique per schema. Reject named references, namespaces/dotted names, aliases, logical types, unknown attributes and record/array/map defaults. Scalar/enum/fixed defaults and union defaults matching one supported branch are checked. All possible writer branches must resolve. First matching reader union branch is selected, then nested resolution checked. No binary decoding, registry access or full Avro validator. Compatibility is one direction only.",
+  "distinct": "schema-gen generates JSON models and npm/export tools inspect packages. This traces actual Avro reader/writer evolution rules; it is separate from spreadsheet, streaming, stock and text-merge contracts.",
+  "checks": "64 primitive pairs, missing defaults, ignored fields, union selection/all branches, enums, fixed sizes, nested array/map promotion and unsupported schema rejection.",
+  "primary": [
+    "https://avro.apache.org/docs/1.12.0/specification/"
+  ]
+}

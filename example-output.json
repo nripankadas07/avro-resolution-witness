@@ -1,0 +1,24 @@
+{
+  "compatible_for_all_writer_branches": true,
+  "trace": [
+    {
+      "path": "$",
+      "rule": "same_type",
+      "writer": "record",
+      "reader": "record"
+    },
+    {
+      "path": "$/id",
+      "rule": "promotion",
+      "writer": "int",
+      "reader": "long"
+    },
+    {
+      "path": "$/note",
+      "rule": "reader_default",
+      "value": null
+    }
+  ],
+  "findings": [],
+  "scope": "unqualified inline schemas; no named references, namespaces, aliases, logical types or composite defaults"
+}
